@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Rümeysa Besli
 
-[![LinkedIn](https://www.linkedin.com/in/beslirumeysa/)
-[![HackerRank](https://www.hackerrank.com/profile/beslirum)
-[![Instagram](https://www.instagram.com/beslirum/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/beslirumeysa/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green)](https://www.hackerrank.com/profile/beslirum)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple)](https://www.instagram.com/beslirum/)
 ## About me
 - 🎓 University: [Zaim University, Computer Engineering]
 - 💻 My Interests: DevOps, Software Development, Systems Engineering
