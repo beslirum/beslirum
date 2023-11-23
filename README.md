@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Rümeysa Besli
+
+
+## About me
+- 🎓 University: [Zaim University, Computer Engineer]
+- 💻 My Interests: DevOps, Software Development, Systems Engineering
+- 📧 Contact: [beslirum@gmail.com]
+- 🌐 Personal Website: [beslirum.me]
+
+
 
 <!--
 **beslirum/beslirum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
