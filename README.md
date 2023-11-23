@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-purple)](https://www.instagram.com/beslirum/)
 ## About me
 - 🎓 University: Zaim University, Computer Engineering
-- 💻 My Interests: DevOps, Software Development, Systems Engineering
+- 💻 I’m interested in data engineering.
 - 📧 Contact: [beslirum@gmail.com]
  <!--
 - 🌐 Personal Website: [beslirum.me]
