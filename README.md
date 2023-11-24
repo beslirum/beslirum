@@ -4,7 +4,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green)](https://www.hackerrank.com/profile/beslirum)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-purple)](https://www.instagram.com/beslirum/)
 ## About me
-- 🎓 University: Zaim University, Computer Engineering
+- 🎓 Zaim University, Computer Engineering
 - 💻 I’m interested in data engineering.
 - 📧 Contact: beslirum@gmail.com
  <!--
