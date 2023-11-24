@@ -6,7 +6,7 @@
 ## About me
 - 🎓 University: Zaim University, Computer Engineering
 - 💻 I’m interested in data engineering.
-- 📧 Contact: beslirum@gmail.com
+- 📧 Contact: [beslirum@gmail.com]
  <!--
 - 🌐 Personal Website: [beslirum.me]
 -->
