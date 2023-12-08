@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rümeysa Besli
+### Hi there 👋 I'm Rümeysa 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/beslirumeysa/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green)](https://www.hackerrank.com/profile/beslirum)
